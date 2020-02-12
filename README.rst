@@ -2,6 +2,9 @@ Smart-IT
 ========
 Materials for the IT-Adventures Smart-IT Competition
 
+Getting Started
+---------------
+
 Step 1:
 
 - Create a virtual environment using ``virtualenv venv -p python3``
