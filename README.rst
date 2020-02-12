@@ -5,7 +5,7 @@ Materials for the IT-Adventures Smart-IT Competition
 Step 1:
 
 - Create a virtual environment using ``virtualenv venv -p python3``
-- You may need to do a ``pip install virtualenv`
+- You may need to do a ``pip install virtualenv``
 
 Step 2:
 
