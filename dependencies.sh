@@ -7,9 +7,9 @@ sudo apt-get upgrade
 sudo apt-get dist-upgrade
 sudo apt-get install portaudio19-dev 
 sudo apt-get install python-pyaudio
-sudo pip install pyaudio
-pip install SpeechRecognition
-pip install GTTS
-pip install playsound
+pip3 install pyaudio
+pip3 install SpeechRecognition
+pip3 install GTTS
+pip3 install playsound
 
 echo Completed Installing Dependencies.
